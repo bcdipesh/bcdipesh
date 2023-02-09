@@ -7,7 +7,7 @@ Software Engineering Student
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](http://bcdipesh.netlify.app)
 * ✉️  You can contact me at [bcdipeshwork@gmail.com](mailto:bcdipeshwork@gmail.com)
-* 🚀  I'm currently working on [improving my web profile for job hunt](http://linkedin.com/in/bcdipesh)
+* 🚀  I'm currently working on improving my web development skills
 * 🧠  I'm learning Software Engineering at Springboard
 * 🤝  I'm open to collaborating on Web Development projects
 * ⚡  Stoic
