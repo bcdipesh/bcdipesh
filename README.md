@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineering Student
 ----------------------------
 
+I am proficient in HTML, CSS, and JavaScript and have experience working with front-end and back-end frameworks like ReactJS, AngularJS, NodeJS, and ExpressJS. Currently, I am studying software engineering at Springboard and seeking an entry-level position to apply my skills, enhance my knowledge, and contribute to the success of a dynamic team. Driven by a love for technology and problem-solving, I'm eager to embark on a challenging and rewarding career in the field of web development.
+
+If you're looking for an entry-level front-end developer who is passionate about delivering exceptional web solutions, please reach out to me. I would be more than happy to connect and discuss how I can contribute to your organization.
+
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](http://bcdipesh.netlify.app)
 * ✉️  You can contact me at [bcdipeshwork@gmail.com](mailto:bcdipeshwork@gmail.com)
