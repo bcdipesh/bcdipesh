@@ -4,9 +4,11 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineering Student
 ----------------------------
 
-I am proficient in HTML, CSS, and JavaScript and have experience working with front-end and back-end frameworks like ReactJS, AngularJS, NodeJS, and ExpressJS. Currently, I am studying software engineering at Springboard and seeking an entry-level position to apply my skills, enhance my knowledge, and contribute to the success of a dynamic team. Driven by a love for technology and problem-solving, I'm eager to embark on a challenging and rewarding career in the field of web development.
+As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Full-Stack Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for problem-solving and a drive to constantly learn and grow, I am currently pursuing my dream of becoming a software engineer through the 800-hour online coding bootcamp with Springboard. 
 
-If you're looking for an entry-level front-end developer who is passionate about delivering exceptional web solutions, please reach out to me. I would be more than happy to connect and discuss how I can contribute to your organization.
+My experience includes developing and designing websites using HTML5, CSS3, JavaScript, and ReactJS, as well as implementing APIs, designing NoSQL databases, and utilizing Git and GitHub. 
+
+My values include teamwork, collaboration, and a commitment to creating positive change in the world, as demonstrated through my Full-Stack SPA project, "Save-A-Buiz". To find out more about me, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](http://bcdipesh.netlify.app)
