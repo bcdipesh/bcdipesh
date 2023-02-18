@@ -11,7 +11,7 @@ My experience includes developing and designing websites using HTML5, CSS3, Java
 My values include teamwork, collaboration, and a commitment to creating positive change in the world, as demonstrated through my Full-Stack SPA project, "Save-A-Buiz". To find out more about me, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
 
 * 🌍  I'm based in Falls Church Virginia, USA
-* 🖥️  See my portfolio at [My Portfolio](http://bcdipesh.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
 * ✉️  You can contact me at [bcdipeshwork@gmail.com](mailto:bcdipeshwork@gmail.com)
 * 🚀  I'm currently working on improving my web development skills
 * 🧠  I'm learning Software Engineering at Springboard
