@@ -4,11 +4,11 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineering Student
 ----------------------------
 
-As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Full-Stack Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for problem-solving and a drive to constantly learn and grow, I am currently pursuing my dream of becoming a software engineer through the 800-hour online coding bootcamp with Springboard. 
+As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Front End Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for creating visually appealing and user-friendly web applications and a drive to constantly learn and grow, I am currently pursuing my dream of advancing my front end development skills through the 800-hour online coding bootcamp with Springboard.
 
-My experience includes developing and designing websites using HTML5, CSS3, JavaScript, and ReactJS, as well as implementing APIs, designing NoSQL databases, and utilizing Git and GitHub. 
+My experience includes developing and designing websites and Single Page Applications (SPA) using HTML5, CSS3, JavaScript, ReactJS, and React-Bootstrap, as well as utilizing Git and GitHub for version control.
 
-My values include teamwork, collaboration, and a commitment to creating positive change in the world, as demonstrated through my Full-Stack SPA project, "Save-A-Buiz". To find out more about me, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
+My values include teamwork, collaboration, and a commitment to creating positive change in the world. To find out more about me and my front end development skills, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
