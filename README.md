@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineering Student
 ----------------------------
 
-As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Front End Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for creating visually appealing and user-friendly web applications and a drive to constantly learn and grow, I am currently pursuing my dream of advancing my front end development skills through the 800-hour online coding bootcamp with Springboard.
+As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Front End Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for creating visually appealing and user-friendly web applications and a drive to constantly learn and grow, I am currently pursuing my dream of advancing my development skills through the 800-hour online Software Engineering bootcamp with Springboard.
 
 My experience includes developing and designing websites and Single Page Applications (SPA) using HTML5, CSS3, JavaScript, ReactJS, and React-Bootstrap, as well as utilizing Git and GitHub for version control.
 
