@@ -1,12 +1,10 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Software Engineering Student
+Front End Developer React
 ----------------------------
 
-As a recent graduate with a Bachelor of Science in Honors Computing and experience as a Front End Developer at Friend For You Tech Pvt. Ltd, I bring a unique combination of technical and creative skills to the table. With a passion for creating visually appealing and user-friendly web applications and a drive to constantly learn and grow, I am currently pursuing my dream of advancing my development skills through the 800-hour online Software Engineering bootcamp with Springboard.
-
-My experience includes developing and designing websites and Single Page Applications (SPA) using HTML5, CSS3, JavaScript, ReactJS, and React-Bootstrap, as well as utilizing Git and GitHub for version control.
+I am a highly skilled and experienced Front-End Developer with 5 years of professional experience in building cutting-edge web applications. My expertise lies in HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, React, React Router, Redux, Angular, jQuery, Express, Node.js, JSON, and various other web development tools. I have a strong understanding of React life-cycle architecture, React-redux, and Redux-Thunk for real-time data handling and API calls. Additionally, I am proficient in configuring Redux Toolkit and debugging with Redux devtools extension.
 
 My values include teamwork, collaboration, and a commitment to creating positive change in the world. To find out more about me and my front end development skills, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
 
@@ -14,7 +12,6 @@ My values include teamwork, collaboration, and a commitment to creating positive
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
 * ✉️  You can contact me at [bcdipeshwork@gmail.com](mailto:bcdipeshwork@gmail.com)
 * 🚀  I'm currently working on improving my web development skills
-* 🧠  I'm learning Software Engineering at Springboard
 * 🤝  I'm open to collaborating on Web Development projects
 * ⚡  Stoic
 
