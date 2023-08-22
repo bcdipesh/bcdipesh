@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Front End Developer React
+Software Engineer I
 ----------------------------
 
 I am a highly skilled and experienced Front-End Developer with 3 years of professional experience in building cutting-edge web applications. My expertise lies in HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, React, React Router, Redux, Angular, jQuery, Express, Node.js, JSON, and various other web development tools. I have a strong understanding of React life-cycle architecture, React-redux, and Redux-Thunk for real-time data handling and API calls. Additionally, I am proficient in configuring Redux Toolkit and debugging with Redux devtools extension.
