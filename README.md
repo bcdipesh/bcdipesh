@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Software Engineer I
+Software Engineer
 ----------------------------
 
 Dynamic and skilled Full-Stack Software Engineer with over 4 years of experience in both Frontend and Backend development. Demonstrated proficiency in crafting innovative web applications to enhance user experiences. Seeking opportunities to leverage expertise in Frontend and Backend development to contribute effectively to diverse projects.
