@@ -4,9 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineer I
 ----------------------------
 
-I am a highly skilled and experienced Front-End Developer with 3 years of professional experience in building cutting-edge web applications. My expertise lies in HTML/HTML5, CSS/CSS3, JavaScript, TypeScript, React, React Router, Redux, Angular, jQuery, Express, Node.js, JSON, and various other web development tools. I have a strong understanding of React life-cycle architecture, React-redux, and Redux-Thunk for real-time data handling and API calls. Additionally, I am proficient in configuring Redux Toolkit and debugging with Redux devtools extension.
-
-My values include teamwork, collaboration, and a commitment to creating positive change in the world. To find out more about me and my front end development skills, visit my portfolio at bcdipesh.netlify.app or connect with me on LinkedIn.
+Dynamic and skilled Full-Stack Software Engineer with over 4 years of experience in both Frontend and Backend development. Demonstrated proficiency in crafting innovative web applications to enhance user experiences. Seeking opportunities to leverage expertise in Frontend and Backend development to contribute effectively to diverse projects.
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
