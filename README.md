@@ -4,7 +4,13 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineer
 ----------------------------
 
-As a teenager, I received my first Android smartphone and used it mainly for entertainment. However, I soon realized that my phone was becoming slower while playing newer games. Without the resources to buy a new phone, I turned to the internet for help. Through my research, I discovered custom ROMs that could replace the original operating system, thereby enhancing my phone's speed and performance. This experience sparked a passion for software engineering in me, and I continued to pursue it further. Graduating with First Class Honors in BSc Hons Computing from Leeds Beckett University was a dream come true, and I was fortunate enough to land my first programming job while still in college. Through this job, I discovered my love for frontend development, particularly working with JavaScript and React. Since then, I have been committed to enhancing my frontend development skills and using my knowledge to help others.
+When I was a teenager, I stumbled upon custom ROMs that could replace the original operating system of my Android smartphone, and I was fascinated by how they could enhance its speed and performance. This experience ignited a passion for programming within me, which I have since pursued relentlessly during my BSc Hons Computing degree at Leeds Beckett University and beyond.
+
+As I embarked upon my first programming job, I discovered my love for frontend development, particularly working with JavaScript and React. Since then, I have been committed to honing my frontend development skills and using my knowledge to help others.
+
+My confidence in my abilities is unwavering, and I am always eager to learn and take on new challenges. I firmly believe that my passion for software engineering, coupled with my technical skills and experience, make me an invaluable addition to any team.
+
+If you're on the lookout for top-notch talent, look no further - let's chat!
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
