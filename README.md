@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineer
 ----------------------------
 
-As a teenager, discovering custom ROMs sparked my passion for enhancing my phone's performance through programming. This drive led me to pursue programming during my BSc Hons Computing degree at Leeds Beckett University. I've since focused on frontend development, mastering JavaScript and React. Confident in my abilities, I'm eager to tackle new challenges and contribute to your team's success. Let's chat!
+As a teenager, discovering custom ROMs sparked my passion for enhancing my smartphone's performance through programming. This ignited my journey into programming, a passion I pursued rigorously throughout my BSc Hons Computing degree at Leeds Beckett University, where I created my first web page to showcase information about HTML Tags. Since then, I've loved and immersed myself in frontend development, mastering JavaScript and React. I'd especially love to work at a small to medium-sized company where I can make an impact quickly. If you're hiring, let's chat!
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
