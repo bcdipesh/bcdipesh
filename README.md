@@ -4,7 +4,7 @@ Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-078594
 Software Engineer
 ----------------------------
 
-Dynamic and skilled Full-Stack Software Engineer with over 4 years of experience in both Frontend and Backend development. Demonstrated proficiency in crafting innovative web applications to enhance user experiences. Seeking opportunities to leverage expertise in Frontend and Backend development to contribute effectively to diverse projects.
+As a teenager, I received my first Android smartphone and used it mainly for entertainment. However, I soon realized that my phone was becoming slower while playing newer games. Without the resources to buy a new phone, I turned to the internet for help. Through my research, I discovered custom ROMs that could replace the original operating system, thereby enhancing my phone's speed and performance. This experience sparked a passion for software engineering in me, and I continued to pursue it further. Graduating with First Class Honors in BSc Hons Computing from Leeds Beckett University was a dream come true, and I was fortunate enough to land my first programming job while still in college. Through this job, I discovered my love for frontend development, particularly working with JavaScript and React. Since then, I have been committed to enhancing my frontend development skills and using my knowledge to help others.
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
