@@ -1,10 +1,10 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Software Engineer
+Software Engineer (Front End)
 ----------------------------
 
-I've been enjoying web development for the first time since I built my first Progressive Web App, "save-a-buiz". I was playing around in the world of Java, Python, and Node (Express) for a while but creating beautiful components using React makes me leave the backend development behind for good. I'm currently looking for a role in frontend web development, ideally using JavaScript (TypeScript), and React. I'd especially love to work at a small to medium-sized company where I can make an impact quickly. If you're hiring, let's chat!
+I am a passionate Software Engineer with a strong focus on front end development, specializing in building responsive and scalable Progressive Web Apps using React. My journey began with experimenting in Java, Python, and Node (Express), but my enthusiasm for crafting reusable and visually appealing components with React has led me to focus on front end technologies. I am seeking a role in front end web development, ideally with JavaScript (TypeScript) and React, where I can leverage my skills to make a meaningful impact. I am particularly interested in opportunities at small to medium-sized companies, where I can contribute quickly and be part of a collaborative team. If you're hiring, let's chat!
 
 * 🌍  I'm based in Falls Church Virginia, USA
 * 🖥️  See my portfolio at [My Portfolio](https://bcdipesh.netlify.app)
