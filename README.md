@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Software Engineer (Front End)
+Software Engineer
 ----------------------------
 
 I am a passionate Software Engineer with a strong focus on front end development, specializing in building responsive and scalable Progressive Web Apps using React. My journey began with experimenting in Java, Python, and Node (Express), but my enthusiasm for crafting reusable and visually appealing components with React has led me to focus on front end technologies. I am seeking a role in front end web development, ideally with JavaScript (TypeScript) and React, where I can leverage my skills to make a meaningful impact. If you're hiring, let's chat!
