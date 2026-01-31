@@ -6,11 +6,8 @@ Software Engineer (Full-Stack) | Open Source Contributor
 
 Hello, I'm Dipesh B C.
 
-Full-Stack Software Engineer with 5 years of experience developing
-cloud-native, scalable applications using Java, Spring Boot,
-React, TypeScript, and AWS. Skilled in designing RESTful APIs,
-microservices architectures, CI/CD pipelines, and containerized
-deployments with Docker and Kubernetes. Adept at collaborating
-in Agile/Scrum teams, mentoring junior developers, and driving
-technical initiatives from concept to production. Active contributor to
-major open-source projects.
+Full-Stack Software Engineer with 5 years of hands-on experience building and delivering web applications using React, Node.js/Express, JavaScript/TypeScript, and databases including MySQL, PostgreSQL, and MongoDB. Skilled in implementing secure user authentication (JWT), client-side validation with React Hook Form and Yup, responsive UIs, and seamless frontend-backend integration.
+
+Currently applying React/TypeScript expertise in an enterprise low-code environment at BizFlow while independently mastering Java and Spring Boot through end-to-end personal projects, structured courses, and certifications.
+
+Eager to contribute to full-stack roles leveraging Spring Boot for scalable, secure backend systems in banking/fintech, bringing proven collaboration skills, quick adaptability, and a passion for driving impactful technical solutions.
