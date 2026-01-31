@@ -1,7 +1,7 @@
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" alt="waving hand" /> My name is Dipesh B C
 ==================================================================================================================================
 
-Software Engineer (Full-Stack) | Open Source Contributor
+Software Engineer - Full-Stack | Spring Boot | Java | JavaScript | TypeScript | Open Source Contributor to React, Next.js & Microsoft’s PWABuilder (bug fixes, documentation, and usability improvements)
 ----------------------------
 
 Hello, I'm Dipesh B C.
